@@ -4,7 +4,7 @@ This is the test automation project based on Python with pytest framework. The t
 
 **pre-requisites**
 
-Need AWS account(at least free tier) & 1 IAM user with policy AmazonS3FullAccess to perform all CRUD operation on AWS s3. Generate Access key for this user.
+Need AWS account(at least free tier) & 1 IAM user with policy AmazonS3FullAccess to perform all CRUD operation on AWS s3. Generate Access key, secret for this user & do base64 encryption for use.
 
 # Project Structure
 
@@ -27,7 +27,7 @@ Here you can find a short description of main directories and it's content
 
 * It follows pytest framework. pytest related Configuration settings are added in "pytest.ini" file. execution logs are found in "pytest.log" file
 * For accessing AWS resources, it uses Boto3 library.
-* In auth_key.py, AWS access key & secret are stored in base64(utf8) encrypted format you can encrypt keys in this link - [https://pr.gg/base64/](https://pr.gg/base64/) . In pytest fixture under conftest.py file, we decrypt the secret & use it to create s3 resource.
+* Inside "auth_key.py" **(currently this file contains dummy encrypted key & secret, replace those with valid encrypted AWS secret)**, AWS access key & secret to be stored in base64(utf8) encrypted format you can encrypt the keys in this link - [https://pr.gg/base64/](https://pr.gg/base64/) & then store inside this file. In pytest fixture under "conftest.py" file, we decrypt the secrets & use it to create s3 resource.
 * All the output files(test logs, report, downloaded file, generated image) are stored inside the /output folder
 
 ![img_1.png](img_1.png)
