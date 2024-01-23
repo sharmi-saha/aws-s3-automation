@@ -4,7 +4,7 @@ This is the test automation project based on Python with pytest framework. The t
 
 **pre-requisites**
 
-Need AWS account(at least free tier) & 1 IAM user with policy AmazonS3FullAccess to perform all CRUD operation on AWS s3. Generate Access key, secret for this user & do base64 encryption for use.
+Need AWS account(at least free tier) & 1 IAM user with policy **AmazonS3FullAccess** to perform all CRUD operation on AWS s3. Generate Access key, secret for this user & do base64 encryption to use it.
 
 # Project Structure
 
