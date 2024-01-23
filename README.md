@@ -32,7 +32,7 @@ Here you can find a short description of main directories and it's content
 
 ![img_1.png](img_1.png)
 
-* For accessing python data visulization utilities, matplotlib library is being used & the bar graph plot is called to generate reports against the given input files.
+* For accessing python data visulization utilities, **matplotlib** library is being used & the bar graph plot is called to generate reports against the given input files.
 
 Input files
 
