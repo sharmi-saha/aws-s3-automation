@@ -1,0 +1,458 @@
+1705695162509	geckodriver	INFO	Listening on 127.0.0.1:52850
+1705695163005	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileUqDFQA"
+2024-01-20 01:42:52.351 firefox[36147:26136086] AuthorizationCopyRights failed! NSOSStatusErrorDomain / -60006
+WebDriver BiDi listening on ws://127.0.0.1:52851
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:52851/devtools/browser/a9814675-facc-4446-8f01-67ee7e9ce80d
+1705695304651	geckodriver	INFO	Listening on 127.0.0.1:53009
+1705695305156	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileSDIPUx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705695305852	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705695306515	Marionette	INFO	Listening on port 53017
+WebDriver BiDi listening on ws://127.0.0.1:53010
+1705695306716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53010/devtools/browser/f5285492-fc82-4805-90c6-25671105de51
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://d2wy8f7a9ursnm.cloudfront.net/v7/bugsnag.min.js, line 1: Script terminated by timeout at:
+g@https://d2wy8f7a9ursnm.cloudfront.net/v7/bugsnag.min.js:1:373
+l@https://d2wy8f7a9ursnm.cloudfront.net/v7/bugsnag.min.js:1:528
+e.leaveBreadcrumb@https://d2wy8f7a9ursnm.cloudfront.net/v7/bugsnag.min.js:1:23926
+at/load/e/<@https://d2wy8f7a9ursnm.cloudfront.net/v7/bugsnag.min.js:1:35914
+
+1705695329364	Marionette	INFO	Stopped listening on port 53017
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1705695497211	geckodriver	INFO	Listening on 127.0.0.1:53215
+1705695497739	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofiledBqkmy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705695498357	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705695498747	Marionette	INFO	Listening on port 53224
+WebDriver BiDi listening on ws://127.0.0.1:53216
+1705695499066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53216/devtools/browser/8e106038-7fcd-4980-a2c7-55d1162426f3
+1705695529331	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+1705695999137	Marionette	INFO	Stopped listening on port 53224
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1705696775466	geckodriver	INFO	Listening on 127.0.0.1:54195
+1705696775973	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofilezAe4uN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705696776692	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705696777117	Marionette	INFO	Listening on port 54203
+WebDriver BiDi listening on ws://127.0.0.1:54196
+1705696777315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54196/devtools/browser/8d8ca923-9ed5-4cc7-8c3d-5a144d726892
+1705696793105	Marionette	INFO	Stopped listening on port 54203
+1705697148546	geckodriver	INFO	Listening on 127.0.0.1:54579
+1705697149061	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofile19Bt3U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705697149774	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705697150158	Marionette	INFO	Listening on port 54587
+WebDriver BiDi listening on ws://127.0.0.1:54580
+1705697150459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54580/devtools/browser/a0e677f3-1df8-4942-8542-8d9b8d7b8726
+1705697166700	Marionette	INFO	Stopped listening on port 54587
+1705697273595	geckodriver	INFO	Listening on 127.0.0.1:54660
+1705697274107	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofilewkbuMO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705697274727	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705697275118	Marionette	INFO	Listening on port 54668
+WebDriver BiDi listening on ws://127.0.0.1:54661
+1705697275316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54661/devtools/browser/f46c5807-92a3-41d6-932e-a63ec4456eb8
+1705697290564	Marionette	INFO	Stopped listening on port 54668
+1705697669594	geckodriver	INFO	Listening on 127.0.0.1:55016
+1705697670100	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofilehFkLEJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705697670724	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705697671114	Marionette	INFO	Listening on port 55024
+WebDriver BiDi listening on ws://127.0.0.1:55017
+1705697671431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55017/devtools/browser/9d359a6c-f45e-4331-9f81-85e72a2f47a4
+1705697677162	Marionette	INFO	Stopped listening on port 55024
+1705697717794	geckodriver	INFO	Listening on 127.0.0.1:55078
+1705697718308	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofilehvzvYt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705697718954	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705697719346	Marionette	INFO	Listening on port 55086
+WebDriver BiDi listening on ws://127.0.0.1:55079
+1705697719569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55079/devtools/browser/46d7f333-1536-4837-b7f6-840aa70e8978
+1705697724336	Marionette	INFO	Stopped listening on port 55086
+1705697778988	geckodriver	INFO	Listening on 127.0.0.1:55134
+1705697779500	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofilestzWMt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705697780155	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705697780540	Marionette	INFO	Listening on port 55142
+WebDriver BiDi listening on ws://127.0.0.1:55135
+1705697780727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55135/devtools/browser/0625020a-e4b0-433b-8195-92688b7fbdd1
+1705697785780	Marionette	INFO	Stopped listening on port 55142
+1705697898709	geckodriver	INFO	Listening on 127.0.0.1:55297
+1705697899227	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofile172Y5y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705697899813	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705697900201	Marionette	INFO	Listening on port 55305
+WebDriver BiDi listening on ws://127.0.0.1:55298
+1705697900398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55298/devtools/browser/ccd55927-9b02-450f-8f16-da79ac02870e
+1705697905762	Marionette	INFO	Stopped listening on port 55305
+1705697918867	geckodriver	INFO	Listening on 127.0.0.1:55344
+1705697919377	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileFiBKex"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705697919990	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705697920369	Marionette	INFO	Listening on port 55352
+WebDriver BiDi listening on ws://127.0.0.1:55345
+1705697920553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55345/devtools/browser/4530bc22-7ddc-49fb-9ebd-2a068873209c
+1705697925584	Marionette	INFO	Stopped listening on port 55352
+1705698216205	geckodriver	INFO	Listening on 127.0.0.1:55520
+1705698216710	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofilerp9Jxg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705698217330	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705698217715	Marionette	INFO	Listening on port 55529
+WebDriver BiDi listening on ws://127.0.0.1:55521
+1705698217958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55521/devtools/browser/74181661-a177-4346-ae54-670241383080
+1705698223965	Marionette	INFO	Stopped listening on port 55529
+1705698261972	geckodriver	INFO	Listening on 127.0.0.1:55575
+1705698262493	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileFXXoXk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705698263152	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705698263573	Marionette	INFO	Listening on port 55583
+WebDriver BiDi listening on ws://127.0.0.1:55576
+1705698263778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55576/devtools/browser/f957683a-248f-450a-b6ae-75e535c9f9db
+1705698296750	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1705698314852	geckodriver	INFO	Listening on 127.0.0.1:55644
+1705698315370	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileCA8885"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705698315808	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705698316227	Marionette	INFO	Listening on port 55652
+WebDriver BiDi listening on ws://127.0.0.1:55645
+1705698316478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55645/devtools/browser/913aab64-c098-40da-b75b-f219dec743c1
+1705698347222	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1705698375067	geckodriver	INFO	Listening on 127.0.0.1:55708
+1705698375586	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileqYuWIi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705698376024	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705698376506	Marionette	INFO	Listening on port 55716
+WebDriver BiDi listening on ws://127.0.0.1:55709
+1705698376770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55709/devtools/browser/5a9c6593-f9be-4997-b999-5b642709d346
+1705698392334	Marionette	INFO	Stopped listening on port 55716
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+1705698409003	Marionette	INFO	Stopped listening on port 55652
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+1705698421056	Marionette	INFO	Stopped listening on port 55583
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1705699199275	geckodriver	INFO	Listening on 127.0.0.1:56145
+1705699199784	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofile2Ishdh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705699200394	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705699200808	Marionette	INFO	Listening on port 56154
+WebDriver BiDi listening on ws://127.0.0.1:56146
+1705699201016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56146/devtools/browser/0b9298bd-3cc7-46fa-afcb-3ac46b158176
+1705699231980	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.mtfDRjdrAlY.es5.O/am=CBgkNg/d=1/excm=_b,_tp,calloutview/ed=1/dg=0/wt=2/ujg=1/rs=AM-SdHtRPSX1JoUh277oY3mfLQ-w1LZFMw/m=_b,_tp, line 49: Script terminated by timeout at:
+_.Sc@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.mtfDRjdrAlY.es5.O/am=CBgkNg/d=1/excm=_b,_tp,calloutview/ed=1/dg=0/wt=2/ujg=1/rs=AM-SdHtRPSX1JoUh277oY3mfLQ-w1LZFMw/m=_b,_tp:49:210
+_.$d@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.mtfDRjdrAlY.es5.O/am=CBgkNg/d=1/excm=_b,_tp,calloutview/ed=1/dg=0/wt=2/ujg=1/rs=AM-SdHtRPSX1JoUh277oY3mfLQ-w1LZFMw/m=_b,_tp:195:1883
+_.Ak@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.mtfDRjdrAlY.es5.O/am=CBgkNg/d=1/excm=_b,_tp,calloutview/ed=1/dg=0/wt=2/ujg=1/rs=AM-SdHtRPSX1JoUh277oY3mfLQ-w1LZFMw/m=_b,_tp:199:303
+Xha/<@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.mtfDRjdrAlY.es5.O/ck=boq-one-google.OneGoogleWidgetUi.oNcULijNVGU.L.F4.O/am=CBgkNg/d=1/exm=A7fCU,BVgquf,COQbmf,EEDORb,EFQ78c,GkRiKb,IZT63,JNoxi,KG2eXe,KUM7Z,L1AAkb,LEikZe,MI6k7c,MdUzUe,Mlhmy,MpJwZc,NwH0H,O1Gjze,O6y8ed,OTA3Ae,OmgaI,PrPYRd,QIhFr,RMhBfe,SdcwHb,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,Ulmmrd,V3dDOb,VwDzFe,XVMNvd,Z5uLle,ZfAoz,ZwDk9d,_b,_tp,aW3pY,aurFic,byfTOb,e5qFLc,fKUV3e,gychg,hKSk3e,hc6Ubd,kWgXee,kjKdXe,lazG7b,lsjVmc,lwddkf,mI3LFb,mdR7q,n73qwf,ovKuLd,pjICDe,pw70Gc,s39S4,w9hDv,wmnU7d,ws9Tlc,xQtZb,xUdipf,yDVVkb,yYB61,zbML3c,zr1jrb/excm=_b,_tp,calloutview/ed=1/wt=2/ujg=1/rs=AM-SdHsu7OGpI2vecT-sDVCA94fMrWyiOA/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:SdcwHb;Me32dd:MEeYgc;NPKaK:SdcwHb;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SNUn3:ZwDk9d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:QIhFr;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:s39S4;oGtAuc:sOXFj;pXdRYb:MdUzUe;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;wR5FRb:O1Gjze;xqZiqf:wmnU7d;yxTchf:KUM7Z;zxnPse:GkRiKb/m=RqjULd:22:262
+lG/</<@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.mtfDRjdrAlY.es5.O/ck=boq-one-google.OneGoogleWidgetUi.oNcULijNVGU.L.F4.O/am=CBgkNg/d=1/exm=A7fCU,BVgquf,COQbmf,EEDORb,EFQ78c,GkRiKb,IZT63,JNoxi,KG2eXe,KUM7Z,L1AAkb,LEikZe,MI6k7c,MdUzUe,Mlhmy,MpJwZc,NwH0H,O1Gjze,O6y8ed,OTA3Ae,OmgaI,PrPYRd,QIhFr,RMhBfe,SdcwHb,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,Ulmmrd,V3dDOb,VwDzFe,XVMNvd,Z5uLle,ZfAoz,ZwDk9d,_b,_tp,aW3pY,aurFic,byfTOb,e5qFLc,fKUV3e,gychg,hKSk3e,hc6Ubd,kWgXee,kjKdXe,lazG7b,lsjVmc,lwddkf,mI3LFb,mdR7q,n73qwf,ovKuLd,pjICDe,pw70Gc,s39S4,w9hDv,wmnU7d,ws9Tlc,xQtZb,xUdipf,yDVVkb,yYB61,zbML3c,zr1jrb/excm=_b,_tp,calloutview/ed=1/wt=2/ujg=1/rs=AM-SdHsu7OGpI2vecT-sDVCA94fMrWyiOA/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:SdcwHb;Me32dd:MEeYgc;NPKaK:SdcwHb;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SNUn3:ZwDk9d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:QIhFr;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:s39S4;oGtAuc:sOXFj;pXdRYb:MdUzUe;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;wR5FRb:O1Gjze;xqZiqf:wmnU7d;yxTchf:KUM7Z;zxnPse:GkRiKb/m=RqjULd:22:508
+kG@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.mtfDRjdrAlY.es5.O/ck=boq-one-google.OneGoogleWidgetUi.oNcULijNVGU.L.F4.O/am=CBgkNg/d=1/exm=A7fCU,BVgquf,COQbmf,EEDORb,EFQ78c,GkRiKb,IZT63,JNoxi,KG2eXe,KUM7Z,L1AAkb,LEikZe,MI6k7c,MdUzUe,Mlhmy,MpJwZc,NwH0H,O1Gjze,O6y8ed,OTA3Ae,OmgaI,PrPYRd,QIhFr,RMhBfe,SdcwHb,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,Ulmmrd,V3dDOb,VwDzFe,XVMNvd,Z5uLle,ZfAoz,ZwDk9d,_b,_tp,aW3pY,aurFic,byfTOb,e5qFLc,fKUV3e,gychg,hKSk3e,hc6Ubd,kWgXee,kjKdXe,lazG7b,lsjVmc,lwddkf,mI3LFb,mdR7q,n73qwf,ovKuLd,pjICDe,pw70Gc,s39S4,w9hDv,wmnU7d,ws9Tlc,xQtZb,xUdipf,yDVVkb,yYB61,zbML3c,zr1jrb/excm=_b,_tp,calloutview/ed=1/wt=2/ujg=1/rs=AM-SdHsu7OGpI2vecT-sDVCA94fMrWyiOA/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:SdcwHb;Me32dd:MEeYgc;NPKaK:SdcwHb;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SNUn3:ZwDk9d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:QIhFr;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:s39S4;oGtAuc:sOXFj;pXdRYb:MdUzUe;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;wR5FRb:O1Gjze;xqZiqf:wmnU7d;yxTchf:KUM7Z;zxnPse:GkRiKb/m=RqjULd:19:30
+lG/<@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.mtfDRjdrAlY.es5.O/ck=boq-one-google.OneGoogleWidgetUi.oNcULijNVGU.L.F4.O/am=CBgkNg/d=1/exm=A7fCU,BVgquf,COQbmf,EEDORb,EFQ78c,GkRiKb,IZT63,JNoxi,KG2eXe,KUM7Z,L1AAkb,LEikZe,MI6k7c,MdUzUe,Mlhmy,MpJwZc,NwH0H,O1Gjze,O6y8ed,OTA3Ae,OmgaI,PrPYRd,QIhFr,RMhBfe,SdcwHb,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,Ulmmrd,V3dDOb,VwDzFe,XVMNvd,Z5uLle,ZfAoz,ZwDk9d,_b,_tp,aW3pY,aurFic,byfTOb,e5qFLc,fKUV3e,gychg,hKSk3e,hc6Ubd,kWgXee,kjKdXe,lazG7b,lsjVmc,lwddkf,mI3LFb,mdR7q,n73qwf,ovKuLd,pjICDe,pw70Gc,s39S4,w9hDv,wmnU7d,ws9Tlc,xQtZb,xUdipf,yDVVkb,yYB61,zbML3c,zr1jrb/excm=_b,_tp,calloutview/ed=1/wt=2/ujg=1/rs=AM-SdHsu7OGpI2vecT-sDVCA94fMrWyiOA/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:SdcwHb;Me32dd:MEeYgc;NPKaK:SdcwHb;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SNUn3:ZwDk9d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:QIhFr;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:s39S4;oGtAuc:sOXFj;pXdRYb:MdUzUe;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;wR5FRb:O1Gjze;xqZiqf:wmnU7d;yxTchf:KUM7Z;zxnPse:GkRiKb/m=RqjULd:22:492
+Pha/<@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.mtfDRjdrAlY.es5.O/ck=boq-one-google.OneGoogleWidgetUi.oNcULijNVGU.L.F4.O/am=CBgkNg/d=1/exm=A7fCU,BVgquf,COQbmf,EEDORb,EFQ78c,GkRiKb,IZT63,JNoxi,KG2eXe,KUM7Z,L1AAkb,LEikZe,MI6k7c,MdUzUe,Mlhmy,MpJwZc,NwH0H,O1Gjze,O6y8ed,OTA3Ae,OmgaI,PrPYRd,QIhFr,RMhBfe,SdcwHb,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,Ulmmrd,V3dDOb,VwDzFe,XVMNvd,Z5uLle,ZfAoz,ZwDk9d,_b,_tp,aW3pY,aurFic,byfTOb,e5qFLc,fKUV3e,gychg,hKSk3e,hc6Ubd,kWgXee,kjKdXe,lazG7b,lsjVmc,lwddkf,mI3LFb,mdR7q,n73qwf,ovKuLd,pjICDe,pw70Gc,s39S4,w9hDv,wmnU7d,ws9Tlc,xQtZb,xUdipf,yDVVkb,yYB61,zbML3c,zr1jrb/excm=_b,_tp,calloutview/ed=1/wt=2/ujg=1/rs=AM-SdHsu7OGpI2vecT-sDVCA94fMrWyiOA/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:SdcwHb;Me32dd:MEeYgc;NPKaK:SdcwHb;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SNUn3:ZwDk9d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:QIhFr;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:s39S4;oGtAuc:sOXFj;pXdRYb:MdUzUe;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;wR5FRb:O1Gjze;xqZiqf:wmnU7d;yxTchf:KUM7Z;zxnPse:GkRiKb/m=RqjULd:15:566
+GF/<@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.mtfDRjdrAlY.es5.O/ck=boq-one-google.OneGoogleWidgetUi.oNcULijNVGU.L.F4.O/am=CBgkNg/d=1/exm=A7fCU,BVgquf,COQbmf,EEDORb,EFQ78c,GkRiKb,IZT63,JNoxi,KG2eXe,KUM7Z,L1AAkb,LEikZe,MI6k7c,MdUzUe,Mlhmy,MpJwZc,NwH0H,O1Gjze,O6y8ed,OTA3Ae,OmgaI,PrPYRd,QIhFr,RMhBfe,SdcwHb,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,Ulmmrd,V3dDOb,VwDzFe,XVMNvd,Z5uLle,ZfAoz,ZwDk9d,_b,_tp,aW3pY,aurFic,byfTOb,e5qFLc,fKUV3e,gychg,hKSk3e,hc6Ubd,kWgXee,kjKdXe,lazG7b,lsjVmc,lwddkf,mI3LFb,mdR7q,n73qwf,ovKuLd,pjICDe,pw70Gc,s39S4,w9hDv,wmnU7d,ws9Tlc,xQtZb,xUdipf,yDVVkb,yYB61,zbML3c,zr1jrb/excm=_b,_tp,calloutview/ed=1/wt=2/ujg=1/rs=AM-SdHsu7OGpI2vecT-sDVCA94fMrWyiOA/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:SdcwHb;Me32dd:MEeYgc;NPKaK:SdcwHb;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SNUn3:ZwDk9d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:QIhFr;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:s39S4;oGtAuc:sOXFj;pXdRYb:MdUzUe;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;wR5FRb:O1Gjze;xqZiqf:wmnU7d;yxTchf:KUM7Z;zxnPse:GkRiKb/m=RqjULd:10:1250
+Nha/<@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.mtfDRjdrAlY.es5.O/ck=boq-one-google.OneGoogleWidgetUi.oNcULijNVGU.L.F4.O/am=CBgkNg/d=1/exm=A7fCU,BVgquf,COQbmf,EEDORb,EFQ78c,GkRiKb,IZT63,JNoxi,KG2eXe,KUM7Z,L1AAkb,LEikZe,MI6k7c,MdUzUe,Mlhmy,MpJwZc,NwH0H,O1Gjze,O6y8ed,OTA3Ae,OmgaI,PrPYRd,QIhFr,RMhBfe,SdcwHb,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,Ulmmrd,V3dDOb,VwDzFe,XVMNvd,Z5uLle,ZfAoz,ZwDk9d,_b,_tp,aW3pY,aurFic,byfTOb,e5qFLc,fKUV3e,gychg,hKSk3e,hc6Ubd,kWgXee,kjKdXe,lazG7b,lsjVmc,lwddkf,mI3LFb,mdR7q,n73qwf,ovKuLd,pjICDe,pw70Gc,s39S4,w9hDv,wmnU7d,ws9Tlc,xQtZb,xUdipf,yDVVkb,yYB61,zbML3c,zr1jrb/excm=_b,_tp,calloutview/ed=1/wt=2/ujg=1/rs=AM-SdHsu7OGpI2vecT-sDVCA94fMrWyiOA/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:SdcwHb;Me32dd:MEeYgc;NPKaK:SdcwHb;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SNUn3:ZwDk9d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:QIhFr;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:s39S4;oGtAuc:sOXFj;pXdRYb:MdUzUe;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;wR5FRb:O1Gjze;xqZiqf:wmnU7d;yxTchf:KUM7Z;zxnPse:GkRiKb/m=RqjULd:15:131
+c@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.mtfDRjdrAlY.es5.O/ck=boq-one-google.OneGoogleWidgetUi.oNcULijNVGU.L.F4.O/am=CBgkNg/d=1/exm=A7fCU,BVgquf,COQbmf,EEDORb,EFQ78c,GkRiKb,IZT63,JNoxi,KG2eXe,KUM7Z,L1AAkb,LEikZe,MI6k7c,MdUzUe,Mlhmy,MpJwZc,NwH0H,O1Gjze,O6y8ed,OTA3Ae,OmgaI,PrPYRd,QIhFr,RMhBfe,SdcwHb,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,Ulmmrd,V3dDOb,VwDzFe,XVMNvd,Z5uLle,ZfAoz,ZwDk9d,_b,_tp,aW3pY,aurFic,byfTOb,e5qFLc,fKUV3e,gychg,hKSk3e,hc6Ubd,kWgXee,kjKdXe,lazG7b,lsjVmc,lwddkf,mI3LFb,mdR7q,n73qwf,ovKuLd,pjICDe,pw70Gc,s39S4,w9hDv,wmnU7d,ws9Tlc,xQtZb,xUdipf,yDVVkb,yYB61,zbML3c,zr1jrb/excm=_b,_tp,calloutview/ed=1/wt=2/ujg=1/rs=AM-SdHsu7OGpI2vecT-sDVCA94fMrWyiOA/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;Erl4fe:FloWmf;JsbNhc:Xd8iUd;LBgRLc:SdcwHb;Me32dd:MEeYgc;NPKaK:SdcwHb;NSEoX:lazG7b;Oj465e:KG2eXe;Pjplud:EEDORb;QGR0gd:Mlhmy;SNUn3:ZwDk9d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;eBAeSb:zbML3c;iFQyKf:QIhFr;io8t5d:yDVVkb;kMFpHd:OTA3Ae;nAFL3:s39S4;oGtAuc:sOXFj;pXdRYb:MdUzUe;qddgKe:xQtZb;sP4Vbe:VwDzFe;uY49fb:COQbmf;ul9GGd:VDovNc;wR5FRb:O1Gjze;xqZiqf:wmnU7d;yxTchf:KUM7Z;zxnPse:GkRiKb/m=RqjULd:10:1946
+
+1705700004797	Marionette	INFO	Stopped listening on port 56154
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1705700139808	geckodriver	INFO	Listening on 127.0.0.1:56567
+1705700140317	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofile4u1dQe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705700141092	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705700141742	Marionette	INFO	Listening on port 56599
+WebDriver BiDi listening on ws://127.0.0.1:56569
+1705700141948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56569/devtools/browser/5f2e9536-2232-458e-a14b-fbd6fbb381b8
+1705700157665	Marionette	INFO	Stopped listening on port 56599
+1705700443748	geckodriver	INFO	Listening on 127.0.0.1:56969
+1705700444260	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileLUYpus"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705700444922	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705700445305	Marionette	INFO	Listening on port 56977
+WebDriver BiDi listening on ws://127.0.0.1:56970
+1705700445499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56970/devtools/browser/ddc71702-42c9-45a2-ab5d-8f7f96a8d15d
+1705700476938	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1705700513570	geckodriver	INFO	Listening on 127.0.0.1:57056
+1705700514086	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileJfLGmM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705700514532	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705700515457	Marionette	INFO	Listening on port 57064
+WebDriver BiDi listening on ws://127.0.0.1:57057
+1705700515717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57057/devtools/browser/f209e22b-9b4d-4e4b-8658-241b654ddc38
+1705700544564	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1705700630882	Marionette	INFO	Stopped listening on port 57064
+1705700634976	Marionette	INFO	Stopped listening on port 56977
+1705700790136	geckodriver	INFO	Listening on 127.0.0.1:57212
+1705700790645	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofile3cIcww"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705700791317	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705700791756	Marionette	INFO	Listening on port 57220
+WebDriver BiDi listening on ws://127.0.0.1:57213
+1705700792121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57213/devtools/browser/135b34a0-1d46-4c23-a392-01996dafbc4b
+1705700822980	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1705700948540	geckodriver	INFO	Listening on 127.0.0.1:57675
+1705700949053	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofile38NgTh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705700949512	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705700949935	Marionette	INFO	Listening on port 57683
+WebDriver BiDi listening on ws://127.0.0.1:57676
+1705700950324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57676/devtools/browser/deee2c14-8a40-493f-87ff-57cb30182510
+1705700966846	Marionette	INFO	Stopped listening on port 57683
+1705701249600	Marionette	INFO	Stopped listening on port 57220
+1705702168572	geckodriver	INFO	Listening on 127.0.0.1:58243
+1705702169088	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofile4k5w60"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705702169722	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705702170120	Marionette	INFO	Listening on port 58251
+WebDriver BiDi listening on ws://127.0.0.1:58244
+1705702170319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58244/devtools/browser/ba6a1e64-2615-40fe-9745-f32b917503d1
+1705702187987	Marionette	INFO	Stopped listening on port 58251
+1705702484060	geckodriver	INFO	Listening on 127.0.0.1:58359
+1705702484570	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofilez6qWqz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705702485209	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705702485612	Marionette	INFO	Listening on port 58367
+WebDriver BiDi listening on ws://127.0.0.1:58360
+1705702485801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58360/devtools/browser/98368bbd-c157-4f15-918d-98f106098ee8
+1705702516716	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1705702596164	geckodriver	INFO	Listening on 127.0.0.1:58445
+1705702596674	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileYIoYfw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705702597117	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705702597585	Marionette	INFO	Listening on port 58453
+WebDriver BiDi listening on ws://127.0.0.1:58446
+1705702597862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58446/devtools/browser/c2b31775-b453-460d-a956-ec1c52daf822
+1705702628460	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1705702703445	geckodriver	INFO	Listening on 127.0.0.1:58517
+1705702703965	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileBD3E9Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705702704423	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705702704856	Marionette	INFO	Listening on port 58525
+WebDriver BiDi listening on ws://127.0.0.1:58518
+1705702705429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58518/devtools/browser/b4e88114-74e4-4719-819d-2ed1a3dd2310
+1705702736201	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1705702787370	geckodriver	INFO	Listening on 127.0.0.1:58585
+1705702787878	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofilevZ1nQD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705702788316	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705702788752	Marionette	INFO	Listening on port 58593
+WebDriver BiDi listening on ws://127.0.0.1:58586
+1705702788931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58586/devtools/browser/7e7168be-0266-4fdb-ae46-9854d10eabb5
+1705702818337	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1705702841305	Marionette	INFO	Stopped listening on port 58593
+1705702845060	Marionette	INFO	Stopped listening on port 58525
+1705702848653	Marionette	INFO	Stopped listening on port 58453
+1705702852026	Marionette	INFO	Stopped listening on port 58367
+1705702857365	geckodriver	INFO	Listening on 127.0.0.1:58671
+1705702857864	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileKScGok"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705702858354	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705702858836	Marionette	INFO	Listening on port 58679
+WebDriver BiDi listening on ws://127.0.0.1:58672
+1705702859005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58672/devtools/browser/eef288ae-1314-4ad9-b881-cbc385e770f6
+1705702876585	Marionette	INFO	Stopped listening on port 58679
+1705702902368	geckodriver	INFO	Listening on 127.0.0.1:58732
+1705702902889	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileZIb0LS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705702903481	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705702903837	Marionette	INFO	Listening on port 58740
+WebDriver BiDi listening on ws://127.0.0.1:58733
+1705702904030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58733/devtools/browser/f32994dd-c144-4283-a56d-24cf3dae4827
+1705702920922	Marionette	INFO	Stopped listening on port 58740
+1705702962907	geckodriver	INFO	Listening on 127.0.0.1:58799
+1705702963428	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileHclM1I"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705702964118	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705702964530	Marionette	INFO	Listening on port 58807
+WebDriver BiDi listening on ws://127.0.0.1:58800
+1705702964867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58800/devtools/browser/4c43ba2a-0c1a-443e-b687-7308a66443b8
+1705702981593	Marionette	INFO	Stopped listening on port 58807
+1705703554335	geckodriver	INFO	Listening on 127.0.0.1:59030
+1705703554846	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileFvUNrr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705703555505	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705703555924	Marionette	INFO	Listening on port 59038
+WebDriver BiDi listening on ws://127.0.0.1:59031
+1705703556137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59031/devtools/browser/d77c49cb-731a-459e-90ab-8905b60d311d
+1705703586369	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1705703689119	Marionette	INFO	Stopped listening on port 59038
+1705704073796	geckodriver	INFO	Listening on 127.0.0.1:59199
+1705704074309	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileBmMNoH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705704075100	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705704075675	Marionette	INFO	Listening on port 59207
+WebDriver BiDi listening on ws://127.0.0.1:59200
+1705704076457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59200/devtools/browser/2014677b-6559-4e64-ac79-24b45a7249c0
+1705704092845	Marionette	INFO	Stopped listening on port 59207
+1705704147478	geckodriver	INFO	Listening on 127.0.0.1:59271
+1705704147977	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofilejWnzAP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705704148738	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705704149551	Marionette	INFO	Listening on port 59279
+WebDriver BiDi listening on ws://127.0.0.1:59272
+1705704150232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59272/devtools/browser/cc23bd62-c53a-4086-9182-119353935207
+1705704166726	Marionette	INFO	Stopped listening on port 59279
+1705704303781	geckodriver	INFO	Listening on 127.0.0.1:59372
+1705704304286	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofileTZ5u0U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705704305045	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705704305618	Marionette	INFO	Listening on port 59380
+WebDriver BiDi listening on ws://127.0.0.1:59373
+1705704306208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59373/devtools/browser/5db8ee3a-dd01-4934-80a5-b45239c43c5b
+1705704322937	Marionette	INFO	Stopped listening on port 59380
+1705704417199	geckodriver	INFO	Listening on 127.0.0.1:59487
+1705704417709	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofilexut2DQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705704418640	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705704419217	Marionette	INFO	Listening on port 59495
+WebDriver BiDi listening on ws://127.0.0.1:59488
+1705704419941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59488/devtools/browser/0f8a30e2-8988-455b-a22c-3bca9d4afab8
+1705704450989	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1705704553290	geckodriver	INFO	Listening on 127.0.0.1:59572
+1705704553791	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0x/_j8134n95196zp_jrhmjgl8w0000gn/T/rust_mozprofilepFHkoh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705704554340	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705704555061	Marionette	INFO	Listening on port 59580
+WebDriver BiDi listening on ws://127.0.0.1:59573
+1705704555163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59573/devtools/browser/eed04734-8a34-4acd-bcb2-df1292609c3e
+1705704586808	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1705704680923	Marionette	INFO	Stopped listening on port 59580
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.sys.mjs", 879))
+1705704691453	Marionette	INFO	Stopped listening on port 59495
